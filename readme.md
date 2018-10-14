@@ -36,7 +36,7 @@ Kernel PCA is inherently more sensitive to local similarities. The upper right p
 ## GP LVM
 At the heart of GP LVM lies an optimization problem. Therefore, the results is in the hands of the optimizer and different settings of the optimizer lead to different results. GP LVM is a kernel method as well, caring more about local similarities. We observe in the lower left diagram that GP LVM also disentangles the two slings of the Swiss roll. However, the representations are not as contiguous as the resulting embeddings of the kPCA.
 
-![image](www.google.com)
+![image](https://github.com/RobRomijnders/kpca_gplvm/blob/master/doc/comparison_equal_variance.png?raw=true)
 
 
 # Further reading
